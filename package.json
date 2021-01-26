@@ -25,7 +25,7 @@
   "homepage": "https://github.com/scottwrobinson/camo",
   "repository": {
     "type": "git",
-    "url": "git@github.com:scottwrobinson/camo.git"
+    "url": "git@github.com:slangstrom/camo.git"
   },
   "license": "MIT",
   "scripts": {
