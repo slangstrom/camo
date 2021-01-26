@@ -1,3 +1,5 @@
+This is just Camo but without any unnecessary (lodash, depd) dependencies. Also switched forEach to speedier alternatives.
+
 # Camo
 
 **Camo needs your help!** Interested in contributing? [Let me know](mailto:s.w.robinson+camo@gmail.com)!
